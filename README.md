@@ -6,7 +6,6 @@ Here are some info about me:
 - 🌱 I’m currently learning Vue.js and technologies
 - 🥅 2022 Goals: Find job
 - ⚡ Fun fact: I love to make video games in Unity as my hobby 👾
-- ⚡⚡ Another fan fact: Xbox better than Playstation 😆
 
 ### Connect with me:
 
