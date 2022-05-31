@@ -2,9 +2,9 @@
 
 Here are some info about me:
 
-- 👨🏼‍💻 I'm currently working on freelance
+- 👨🏼‍💻 I'm currently working on company
 - 🌱 I’m currently learning Vue.js and technologies
-- 🥅 2022 Goals: Find job
+- 🥅 2022 Goals: Learn more about Vue and technologies
 - ⚡ Fun fact: I love to make video games in Unity as my hobby 👾
 
 ### Connect with me:
